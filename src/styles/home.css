@@ -35,7 +35,7 @@
   .headerContainer button {
     color: black;
     border: none;
-    border-radius: 5px;
+    border-radius: 25px;
     cursor: pointer;
     justify-content: center;
     background-color: #121619;
@@ -44,6 +44,10 @@
     color: white;
     text-decoration: none;
     font-size: 20px;
+    transition: 0.5ms;
+  }
+  .headerContainer button:hover{
+    transform: scale(1.15);
   }
   
   .headerContainer button:hover {
