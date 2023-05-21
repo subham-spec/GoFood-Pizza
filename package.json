@@ -1,7 +1,7 @@
 {
   "name": "foodapp",
   "version": "0.1.0",
-  "https://subham-spec.github.io/GoFood-Pizza",
+  "homepage": "https://subham-spec.github.io/GoFood-Pizza",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.0",
